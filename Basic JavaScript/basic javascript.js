@@ -1,3 +1,5 @@
 // wewewe
 
 /* wewewewe */
+
+var myName;
