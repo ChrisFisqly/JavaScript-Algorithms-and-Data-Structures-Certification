@@ -1,5 +1,5 @@
-// wewewe
+// Setup
+var a;
+a = 7;
 
-/* wewewewe */
-
-var myName;
+// Only change code below this line
