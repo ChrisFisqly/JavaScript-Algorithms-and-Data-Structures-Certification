@@ -1,1 +1,1 @@
-var myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
+var myStr = "This is the start. " + "This is the end."; // Change this line
