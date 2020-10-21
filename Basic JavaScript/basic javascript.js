@@ -1,7 +1,6 @@
 // Setup
-var lastNameLength = 0;
+var firstLetterOfLastName = "";
 var lastName = "Lovelace";
 
 // Only change code below this line
-
-lastNameLength = lastName.length;
+firstLetterOfLastName = lastName[0]; // Change this line
