@@ -1,5 +1,7 @@
-// Change code below this line
+// Setup
+var lastNameLength = 0;
+var lastName = "Lovelace";
 
-var someAdjective = "da best";
-var myStr = "Learning to code is ";
-myStr += someAdjective;
+// Only change code below this line
+
+lastNameLength = lastName.length;
