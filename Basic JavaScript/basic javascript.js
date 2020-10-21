@@ -1,6 +1,1 @@
-// Setup
-var myArray = [["John", 23], ["dog", 3]];
-myArray.shift();
-
-// Only change code below this line
-myArray.unshift(["Paul", 35]);
+var myList = [["banana", 2],["apples", 2],["oranges", 2],["salad", 2],["carrots", 2]];
