@@ -1,4 +1,3 @@
 // Only change code below this line
-
-var myStr = "This is the first sentence. ";
-myStr += "This is the second sentence."
+var myName = "Chris";
+var myStr = "My name is" + myName + " and I am well!";
