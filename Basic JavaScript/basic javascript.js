@@ -1,1 +1,4 @@
-var myList = [["banana", 2],["apples", 2],["oranges", 2],["salad", 2],["carrots", 2]];
+function reusableFunction () {
+    console.log("Hi World");
+}
+reusableFunction();
