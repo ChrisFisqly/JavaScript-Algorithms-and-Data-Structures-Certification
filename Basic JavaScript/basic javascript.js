@@ -1,2 +1,6 @@
+// Setup
+var myArray = [50,60,70];
+
 // Only change code below this line
-var myArray = [["Cowboys, 22"]];
+
+var myData = myArray[0];
