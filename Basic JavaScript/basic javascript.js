@@ -1,13 +1,6 @@
-// Setup
-var outerWear = "T-Shirt";
-
-function myOutfit() {
-  // Only change code below this line
-var outerWear = "sweater";
-
-
-  // Only change code above this line
-  return outerWear;
+function timesFive(num) {
+  return num * 5;
 }
-
-myOutfit();
+var answer = timesFive(5); // 25
+var answer = timesFive(2); // 10
+var answer = timesFive(0); // 0
