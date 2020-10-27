@@ -4,7 +4,11 @@ function nextInLine(arr, item) {
   var removed = arr.shift();   //3
  return removed;   //4
   return item;
+  var queue = arr.push(item);
 
+  var removeItem = arr.shift();
+
+  return removeItem;  // Change this line
 
 }
 
