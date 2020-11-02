@@ -1,6 +1,6 @@
 // Setup
 function testStrictNotEqual(val) {
-  if (val) { // Change this line
+  if (val !== 17) { // Change this line
     return "Not Equal";
   }
   return "Equal";
