@@ -6,6 +6,7 @@ function golfScore(par, strokes) {
   else if ((strokes - par) <= -2) return 'Eagle';
   else if ((strokes - par) === -1) return 'Birdie';
   else if (strokes === par) return 'Par';
+  else if ((strokes - par) === 1) return 'Bogey';
 
   return "Change Me";
   // Only change code above this line
