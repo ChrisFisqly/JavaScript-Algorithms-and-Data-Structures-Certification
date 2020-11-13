@@ -5,6 +5,7 @@ function caseInSwitch(val) {
   switch (val) {
     case 1:
       answer = "alpha";
+      break;
 
   // Only change code above this line
   return answer;
