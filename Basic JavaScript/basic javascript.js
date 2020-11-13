@@ -9,6 +9,9 @@ function caseInSwitch(val) {
       case 2:
         answer = "beta";
         break;
+      case 3:
+        answer = "gamma";
+        break;  
 
   // Only change code above this line
   return answer;
