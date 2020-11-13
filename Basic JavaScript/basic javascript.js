@@ -3,9 +3,12 @@ function caseInSwitch(val) {
   // Only change code below this line
 
   switch (val) {
-    case 1:
-      answer = "alpha";
-      break;
+      case 1:
+        answer = "alpha";
+        break;
+      case 2:
+        answer = "beta";
+        break;
 
   // Only change code above this line
   return answer;
