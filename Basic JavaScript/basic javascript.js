@@ -2,8 +2,11 @@ function switchOfStuff(val) {
   var answer = "";
   // Only change code below this line
 
-  switch (val)
-
+  switch (val) {
+    case "a":
+      answer = "apple";
+      break;
+      
   // Only change code above this line
   return answer;
 }
