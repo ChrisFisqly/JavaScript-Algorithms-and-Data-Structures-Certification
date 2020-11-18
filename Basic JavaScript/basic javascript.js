@@ -9,6 +9,9 @@ function switchOfStuff(val) {
     case "b":
       answer = "bird";
       break;
+    case "c":
+      answer = "cat";
+      break;
       
   // Only change code above this line
   return answer;
