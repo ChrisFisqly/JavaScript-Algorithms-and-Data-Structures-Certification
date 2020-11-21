@@ -7,7 +7,11 @@ function sequentialSizes(val) {
     case 3:
       answer = "Low";
       break;
-
+    case 4:
+    case 5:
+    case 6:
+     answer = "Mid";
+     break;
 
   // Only change code above this line
   return answer;
