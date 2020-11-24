@@ -2,8 +2,10 @@ function chainToSwitch(val) {
   var answer = "";
   // Only change code below this line
 
-  if (val === "bob") {
-    answer = "Marley";
+  switch (val) {
+    case "bob":
+      answer = "Marley";
+      break;
   } else if (val === 42) {
     answer = "The Answer";
   } else if (val === 1) {
