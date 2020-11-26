@@ -9,8 +9,9 @@ function chainToSwitch(val) {
     case 42:
       answer = "The Answer";
       break;
-  } else if (val === 1) {
-    answer = "There is no #1";
+    case 1:
+      answer = "There is no #1";
+      break;
   } else if (val === 99) {
     answer = "Missed me by this much!";
   } else if (val === 7) {
