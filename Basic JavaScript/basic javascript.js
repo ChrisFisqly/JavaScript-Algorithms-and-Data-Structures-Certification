@@ -15,9 +15,10 @@ function chainToSwitch(val) {
     case 99:
       answer = "Missed me by this much!";
       break;
-  } else if (val === 7) {
-    answer = "Ate Nine";
-  }
+    case 7:
+      answer = "Ate Nine";
+      break;
+    }
 
   // Only change code above this line
   return answer;
