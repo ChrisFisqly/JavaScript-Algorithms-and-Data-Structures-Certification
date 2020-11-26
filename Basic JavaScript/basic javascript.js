@@ -24,4 +24,4 @@ function chainToSwitch(val) {
   return answer;
 }
 
-chainToSwitch(7);
+chainToSwitch(7); //complete
