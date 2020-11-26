@@ -12,8 +12,9 @@ function chainToSwitch(val) {
     case 1:
       answer = "There is no #1";
       break;
-  } else if (val === 99) {
-    answer = "Missed me by this much!";
+    case 99:
+      answer = "Missed me by this much!";
+      break;
   } else if (val === 7) {
     answer = "Ate Nine";
   }
